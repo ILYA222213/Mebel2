@@ -1,0 +1,14 @@
+C:\Users\ilruz\source\repos\Bd2\Bd2\bin\Debug\Bd2.exe.config
+C:\Users\ilruz\source\repos\Bd2\Bd2\bin\Debug\Bd2.exe
+C:\Users\ilruz\source\repos\Bd2\Bd2\bin\Debug\Bd2.pdb
+C:\Users\ilruz\source\repos\Bd2\Bd2\obj\Debug\Bd2.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\Bd2\Bd2\obj\Debug\Bd2.Form1.resources
+C:\Users\ilruz\source\repos\Bd2\Bd2\obj\Debug\Bd2.Properties.Resources.resources
+C:\Users\ilruz\source\repos\Bd2\Bd2\obj\Debug\Bd2.csproj.GenerateResource.cache
+C:\Users\ilruz\source\repos\Bd2\Bd2\obj\Debug\Bd2.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\Bd2\Bd2\obj\Debug\Bd2.exe
+C:\Users\ilruz\source\repos\Bd2\Bd2\obj\Debug\Bd2.pdb
+C:\Users\ilruz\source\repos\BD2\Bd2\obj\Debug\Bd2.Order.resources
+C:\Users\ilruz\source\repos\BD2\Bd2\obj\Debug\Bd2.Product.resources
+C:\Users\ilruz\source\repos\BD2\Bd2\obj\Debug\Bd2.Material.resources
+C:\Users\ilruz\source\repos\BD2\Bd2\obj\Debug\Bd2.Supplier.resources
